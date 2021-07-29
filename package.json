@@ -1,0 +1,19 @@
+{
+  "name": "a00445618_mcda5550_responsive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tx-wan/A00445618_MCDA5550_Responsive.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tx-wan/A00445618_MCDA5550_Responsive/issues"
+  },
+  "homepage": "https://github.com/Tx-wan/A00445618_MCDA5550_Responsive#readme"
+}
